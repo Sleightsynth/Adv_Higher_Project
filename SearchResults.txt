@@ -1,0 +1,2 @@
+44 was found at position 1 in the sorted array.
+The binary search took 3 comparisons to find 44 in the sorted array.
